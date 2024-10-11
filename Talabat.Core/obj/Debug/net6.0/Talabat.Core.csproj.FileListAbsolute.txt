@@ -1,0 +1,12 @@
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache

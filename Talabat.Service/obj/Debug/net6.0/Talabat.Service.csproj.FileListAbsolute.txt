@@ -1,0 +1,15 @@
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\Route_C41_Back\Assignments solution\APIs Assignments\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete

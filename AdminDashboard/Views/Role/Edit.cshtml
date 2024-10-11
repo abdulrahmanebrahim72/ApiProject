@@ -1,0 +1,24 @@
+﻿@model RoleViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit @Model.Name Role</h1>
+<hr />
+
+<form method="post" asp-action="Edit" class="mt-4">
+	<input asp-for="Id" class="form-control" hidden />
+	<div class="mt-2 form-group">
+		<label asp-for="Name"></label>
+		<input asp-for="Name" class="form-control" />
+
+		<div class="mt-2 justify-content-center input-group">
+			<button class="btn btn-success m-2" type="submit">Save</button>
+			<a class="btn btn-secondary m-2" asp-action="Index">Back To List</a>
+		</div>
+	</div>
+
+	<span asp-validation-for="Name" class="text-danger"></span>
+</form>
+

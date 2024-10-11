@@ -1,0 +1,42 @@
+﻿@model LoginDto
+
+@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>Login - SB Admin</title>
+    <link href="css/styles.css" rel="stylesheet" />
+	<link href="~/css/style.css" rel="stylesheet" />
+    <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <section class="container">
+        <div class="login-container">
+            <div class="circle circle-one"></div>
+            <div class="form-container">
+                <img src="https://raw.githubusercontent.com/hicodersofficial/glassmorphism-login-form/master/assets/illustration.png" alt="illustration" class="illustration" />
+                <h1 class="opacity">LOGIN</h1>
+                <form method="post" asp-action="Login" asp-controller="Admin">
+                    <input asp-for="Email" type="text" placeholder="Email" />
+                    <input asp-for="Password" type="password" placeholder="Pasword" />
+                    <button asp-action="Login" class="opacity">SUBMIT</button>
+                </form>
+            </div>
+            <div class="circle circle-two"></div>
+        </div>
+        <div class="theme-btn-container"></div>
+    </section>
+
+	<script src="~/js/myscript.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,13 @@
+﻿@model RoleFormViewModel
+
+<form method="post" asp-action="Create">
+	<div class="mb-2 input-group">
+		<input asp-for="Name" class="form-control" placeholder="Role Name" />
+
+		<div class="input-group-append">
+			<button class="btn btn-success" type="submit">Add New Role</button>
+		</div>
+	</div>
+
+	<span asp-validation-for="Name" class="text-danger"></span>
+</form>
